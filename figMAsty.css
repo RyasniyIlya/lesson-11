@@ -1,0 +1,32 @@
+body{
+    
+}
+.header {
+
+}
+
+.header__nav {
+    width: 555px;
+    margin: auto;
+
+}
+.header__nav-item {
+    Display:inline-block;
+    
+    
+    margin: 71px 35px 91px 35px;
+    font-family: 'Playfair Display';
+font-weight: 400;
+font-size: 14px;
+color: #7D7D7D;
+}
+.header__nav-itemActive {
+    Display:inline-block;
+    
+    
+    margin: 71px 35px 91px 35px;
+    font-family: 'Playfair Display';
+font-weight: 400;
+font-size: 14px;
+color: #03A9F4;
+}
